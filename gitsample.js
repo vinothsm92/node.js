@@ -1,3 +1,3 @@
 //file checked
 
-var a="file inserted"
+var a="file inserted asdf";
